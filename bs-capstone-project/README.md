@@ -125,7 +125,7 @@ Sequential([
 
 ### 🔍 Prediction Plot
 
-![](predicted_vs_actual.png)
+![](predicted-vs-actual.png)
 
 
 ## 🧪 Performance Metrics
