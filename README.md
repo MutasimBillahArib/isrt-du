@@ -1,1 +1,1 @@
-Collection from my university life.
+Collections from my university life.
